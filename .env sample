@@ -1,0 +1,9 @@
+ALCHEMY_GOERLI_URL="<YOUR_GOERLI_RPC_URL>"
+GOERLI_PRIVATE_KEY="<YOUR_PRIVATE_KEY>"
+
+# generate addresses for testing airdrop
+GOERLI_MNEMONIC="<your mnemonic>"
+
+# Contract verification and gas estimation
+ETHERSCAN_KEY="<your-etherscan-api-key>"
+COINMARKETCAP_API_KEY="<your coinmarketcap key to grab eth price for gas cost estimations>"
